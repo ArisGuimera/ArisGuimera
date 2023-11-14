@@ -12,7 +12,7 @@
 
 - ⭐ Github Star ⭐ 
 - 📲 Mobile developer
-- 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+35k subs)
+- 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+37k subs)
 - ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
 - 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
 - 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
@@ -61,7 +61,7 @@
 <table>
 <tr>
 <td width="100%">
-<h3 align="center">Curso Android Básico</h3>
+<h3 align="center">Curso Android Intermedio</h3>
 <div align="center">
 <a href=""https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://i.imgur.com/V48W0sU.jpg" width="400" alt="Curso intermedio Android"></a>
 <p>
