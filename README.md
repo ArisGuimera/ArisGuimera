@@ -82,7 +82,7 @@
 <div align="center">
 <a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="https://i.imgur.com/nDDp1Ra.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform/edit/master/README.md" target="_blank">
+<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://youtube.com/playlist?list=PL8ie04dqq7_NUvBcMMosVRAbqZDWmRzX3&si=FdS-Z07ZFAUjDHAE" target="_blank">
