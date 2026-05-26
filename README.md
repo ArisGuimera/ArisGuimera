@@ -97,6 +97,28 @@
 </div>
 <br>
 
+<table>
+<tr>
+<td width="100%">
+<h3 align="center">MobiAI</h3>
+<div align="center">
+<a href="https://github.com/ArisGuimera/MobiAI-Core" target="_blank"><img src="https://github.com/ArisGuimera/MobiAI-Core/blob/main/docs/assets/mobiai-hero.png" width="400" alt="MobiAI"></a>
+<p>
+<a href="https://github.com/ArisGuimera/MobiAI-Core" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-00AFFF?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://youtu.be/3xJWvTp9bmM" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-006DFF?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+</p>
+<p>El primer toolkit enfocado completamente <strong>en desarrollo mobile con IA</strong> - En este proyecto aprenderás a integrar <strong>MobiAI</strong>.</p>
+</div>
+                                                                                      
+</td>       
+</table>                                                                                 
+</div>
+<br>
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
